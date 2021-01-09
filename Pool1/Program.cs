@@ -38,7 +38,7 @@ namespace Pool1
             return float.Parse(s);
         }
        
-        static void Main(string[] args) 
+        static void Main(string[] args) // FUNCTIA MAIN ARE ROL DE A SCRIE PE CONSOLA EXERCITIILE SI SA AJUTA PE UTILIZATORUL SA APELEZE EXERCITII  
         {
             Console.WriteLine("                   -                              Problems pool 1                             -          ");
 

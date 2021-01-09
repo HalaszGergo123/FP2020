@@ -59,11 +59,8 @@ namespace Pool3
             for (int i = 0; i < vector.Length; i++)
                 Console.Write(vector[i] + " ");
         }
-        /// <summary>
-        /// FUNCTIA MAIN ARE ROL DE A SCRIE PE CONSOLA EXERCITIILE SI SA AJUTA PE UTILIZATORUL SA APELEZE EXERCITII a.k.a DRIVER    
-        /// </summary>
-        /// <param name="args"></param
-        static void Main(string[] args) // functia main,aici apelez exercitii pe care am facut
+       
+        static void Main(string[] args) // FUNCTIA MAIN ARE ROL DE A SCRIE PE CONSOLA EXERCITIILE SI SA AJUTA PE UTILIZATORUL SA APELEZE EXERCITII  
         {
             Console.WriteLine("                   -                              Problems pool 3                             -          ");
 
