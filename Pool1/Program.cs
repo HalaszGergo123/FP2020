@@ -37,10 +37,7 @@ namespace Pool1
             s = Console.ReadLine();
             return float.Parse(s);
         }
-        /// <summary>
-        /// FUNCTIA MAIN ARE ROL DE A SCRIE PE CONSOLA EXERCITIILE SI SA AJUTA PE UTILIZATORUL SA APELEZE EXERCITII a.k.a DRIVER    
-        /// </summary>
-        /// <param name="args"></param
+       
         static void Main(string[] args) 
         {
             Console.WriteLine("                   -                              Problems pool 1                             -          ");
@@ -67,7 +64,7 @@ namespace Pool1
 "18. Afisati descompunerea in factori primi ai unui numar n.  De ex. pentru n = 1776 afisati 2^3 x 3^1 x 7^2. ",
 "19. Determinati daca un numar e format doar cu 2 cifre care se pot repeta. De ex. 23222 sau 9009000 sunt astfel de numere, pe cand 593 si 4022 nu sunt. ",
 "20. Afisati fractia m/n in format zecimal, cu perioada intre paranteze (daca e cazul). Exemplu: 13/30 = 0.4(3). ",
-"21. Ghiciti un numar intre 1 si 1024 prin intrebari de forma \"numarul este mai mare sau egal decat x?\"." 
+"21. Ghiciti un numar intre 1 si 1024 prin intrebari de forma: numarul este mai mare sau egal decat x?." 
 
     };
             for (int i = 0; i < cerinte.Length; i++)
