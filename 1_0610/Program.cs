@@ -29,7 +29,7 @@ namespace _1_0610
             //Console.WriteLine($"Va aflati la {d} km de Stormwind");
 
 
-            // test pt git hub
+            // test pt git hubasdasdsada    
 
             //test HalaszG Github
         }
